@@ -8,6 +8,7 @@ Here is icons for tags:
 * <img src="./green_book.webp" height="16" width="16" /> I don’t know
 
 Accounts:
-* [Scratch <img src="./carrot.webp" height="16" width="16" />](https://scratch.mit.edu/users/Noah-001122/)
-* [Scratch](https://scratch.mit.edu/users/GamerCreeper12)
+* [Scratch <img src="./red/beaker.webp" height="16" width="16" /><img src="./carrot.webp" height="16" width="16" />](https://scratch.mit.edu/users/Noah-001122/)
+* [Scratch <img src="./red_beaker.webp" height="16" width="16" />](https://scratch.mit.edu/users/GamerCreeper12)
+* [Penguinmod <img src="./red_beaker.webp" height="16" width="16" />](https://penguinmod.com/profile/?user=gamercreeper12)
 </details>
