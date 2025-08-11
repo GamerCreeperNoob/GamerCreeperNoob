@@ -9,5 +9,5 @@ Here is icons for tags:
 
 Accounts:
 * [Scratch <img src="./carrot.webp" height="16" width="16" />](https://scratch.mit.edu/users/Noah-001122/)
-*
+* [Scratch](https://scratch.mit.edu/users/GamerCreeper12)
 </details>
